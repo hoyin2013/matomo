@@ -59,6 +59,7 @@ class TrackGoalsPagesTest extends SystemTestCase
     {
         $actual = Db::get()->fetchOne('SELECT pageviews_before FROM ' . Common::prefixTable('log_conversion') .
                                       ' WHERE idlink_va = ?', [$id]);
+
         $this->assertEquals($expected, $actual);
     }
 
