@@ -173,7 +173,7 @@ class VisitorRecognizer
                 $value = strtotime($value);
             }
 
-            $visitProperties->setProperty($field, $value, true);
+            $visitProperties->setProperty($field, $value);
         }
 
         Common::printDebug("The visit is part of an existing visit (
