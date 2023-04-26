@@ -174,6 +174,8 @@ class VisitorRecognizer
             }
 
             $visitProperties->setProperty($field, $value);
+            // Set the immutable property initial value
+            $visitProperties->initializeImmutableProperty($field, $value);
         }
 
         Common::printDebug("The visit is part of an existing visit (
