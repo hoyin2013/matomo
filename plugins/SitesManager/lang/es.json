@@ -73,6 +73,7 @@
         "SiteWithoutDataSetupTracking": "Si no lo has hecho ya, por favor, configura el %1$scódigo de seguimiento%2$s de abajo en tu sitio web o app para móvil.",
         "SiteWithoutDataMessageDisappears": "Este mensaje desaparecerá tan pronto como algún dato sea monitoreado en este sitio web.",
         "SiteWithoutDataIgnoreMessage": "No mostrar este mensaje durante la próxima hora",
+        "SiteWithoutDataChoosePreferredWay": "Elige tu forma preferida de configuración",
         "SuperUserAccessCan": "Un usuario con acceso Super Usuario también puede %1$s especificar la configuración global%2$s para nuevos sitios web.",
         "Timezone": "Zona Horaria",
         "TrackingSiteSearch": "Seguimiento en el Buscador interno del sitio",
