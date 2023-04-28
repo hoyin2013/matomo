@@ -134,6 +134,7 @@
         "SiteWithoutDataGoogleTagManagerIntro": "Als u Google Tag Manager gebruikt, kunt u gegevens naadloos volgen in Matomo met behulp van de \"Custom HTML Tag\" die beschikbaar is in Google Tag Manager. %1$sMeer informatie%2$s.",
         "SiteWithoutDataGoogleTagManagerFollowStepsIntro": "Volg deze stappen om het in te stellen:",
         "SiteWithoutDataGoogleTagManagerFollowStep1": "%1$sLog in%2$s op uw Google Tag Manager-account.",
+        "SiteWithoutDataGoogleTagManagerFollowStep2": "Selecteer de container waaraan u Matomo wilt toevoegen.",
         "SiteWithoutDataGoogleTagManagerFollowStep3": "Klik op \"Tags\" en vervolgens op \"Nieuw\".",
         "SiteWithoutDataGoogleTagManagerFollowStep4": "Klik op \"Tagconfiguratie\" en selecteer \"Aangepaste HTML\"",
         "SiteWithoutDataGoogleTagManagerFollowStep5": "Kopieer de standaard Matomo JavaScript Tracking-code zoals hieronder vermeld.",
